@@ -15,8 +15,7 @@ TaskBuddies, A modern task manager application with to do list feature
 ## Live Demo
 
 Experience TaskBuddies live:  
-[View Demo](https://your-username.github.io/TaskBuddies/)
-
+[View Demo](https://umrahz.github.io/TaskBuddies/)
 ## Getting Started
 
 ### Run Locally
